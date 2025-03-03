@@ -1,0 +1,78 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+/* Heading Styles */
+h1 {
+    color: #d32f2f;
+    text-align: center;
+    padding: 10px;
+}
+
+h3 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Navigation Links */
+a {
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #00796b;
+    padding: 10px 15px;
+    border-radius: 5px;
+    display: inline-block;
+    margin: 5px;
+}
+
+a:hover {
+    background-color: #004d40;
+}
+
+/* Paragraph Styles */
+p {
+    width: 80%;
+    margin: 0 auto;
+    line-height: 1.6;
+    text-align: justify;
+    background-color: white;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Image Section */
+iframe {
+    display: block;
+    margin: 20px auto;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* List of Images */
+ol {
+    text-align: center;
+    padding: 20px;
+}
+
+ol a {
+    display: block;
+    margin: 5px auto;
+    width: 200px;
+}
+
+/* Go to Top Link */
+h2 {
+    text-align: center;
+    margin-top: 30px;
+}
+
+h2 a {
+    font-size: 18px;
+    font-weight: bold;
+}
